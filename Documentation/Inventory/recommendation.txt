@@ -1,0 +1,9 @@
+Recomenmendation can be done using Colarabitive filtering(CF) methods.In CF methods, the recommendation process is based on ratings of “similiar” users, that is, users who have similar
+preferences. The CF methods are classified into two categories [8]: memory-based (or user-based collaborative
+filtering – UBCF) methods and model-based (or item-based collaborative filtering – IBCF). Memory-based type of
+algorithms are also known as the nearest neighbors method, being the first technique to be employed in this category.
+When computing the recommendation, the whole set of user ratings is processed because the opinions of the current
+user are compared with the ones of all the other users in order to find the neighbors (users with the most similar
+opinions). Model-based techniques use a different strategy, mainly to minimize some weaknesses (see text below) of
+the memory-based methods. Model-based methods use data mining techniques to develop a model of user ratings,
+which is used to predict user preferences.
